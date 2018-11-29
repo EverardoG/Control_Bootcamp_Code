@@ -7,5 +7,5 @@ I'm putting it here for easy access for a QEA assignment.
 
 ---------------------------------------------------------------
 
-Hello QEA student! Feel free to fork this repository to your own Github profile, or just clone the code directly onto your laptop. If you're not familiar with Github, that's okay! You can just hit the "Download Zip" button up in the right hand corner. Enjoy!
+Hello QEA student! Feel free to fork this repository to your own Github profile, or just clone the code directly onto your laptop. If you're not familiar with Github, that's okay! You can just hit the "Clone or Download" button up in the right hand corner, and then "Download as Zip". Enjoy!
 

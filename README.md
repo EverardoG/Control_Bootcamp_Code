@@ -1,6 +1,6 @@
 # Control Bootcamp Code
 This repository is home to code developed by Steve Burton at the University of Washington for his Control Bootcamp videos. 
-The original videos are found here -> https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m. 
+The original videos are found here -> https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m.
 The original code is found here -> https://www.youtube.com/redirect?event=video_description&v=qjhAAQexzLg&redir_token=JeEp1x3SMYTXmQ5KmduyU4deKRh8MTU0MzU5NDc2MEAxNTQzNTA4MzYw&q=http%3A%2F%2Ffaculty.washington.edu%2Fsbrunton%2Fcontrol_bootcamp_code.zip
 
 I'm putting it here for easy access for a QEA assignment. 
